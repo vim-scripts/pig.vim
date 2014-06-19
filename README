@@ -1,4 +1,7 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=2186
 
-Pig is a powerful system for analysis of large data sets using MapReduce approach.
-http://incubator.apache.org/pig
+
+This plugin is in active development on github: https://github.com/motus/pig.vim
+
+Please use github to send pull requests and report issues.
+
